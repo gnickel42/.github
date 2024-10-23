@@ -1,7 +1,5 @@
 # 42cursus
 
-## [gnickel](https://profile.intra.42.fr/)
-
 Here are my projects from the Core Curriculum at 42Heilbronn.
 
 | ⊚︎ | Project | Score | Status |
